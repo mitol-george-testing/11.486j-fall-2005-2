@@ -1,0 +1,46 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Public Economics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "f492a932-0e7f-c201-fd85-1a84a808a284",
+      "bc2e78b2-3452-c1c2-2b90-da196b4e3d85"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Economic Institutions and Growth Policy Analysis",
+  "course_description": "This course is designed for students particularly concerned with the practical problems of operating in large formal organizations, either from an operational or a research perspective. It will focus, as the title suggests, upon different forms of economic organizations and institutions in advanced and developing industrial societies and the theories (and theoretical perspectives) which might help us to understand them.\n",
+  "department_numbers": [
+    "11",
+    "14",
+    "17"
+  ],
+  "extra_course_numbers": "14.778J,17.184J",
+  "primary_course_number": "11.486J",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
